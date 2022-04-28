@@ -200,9 +200,16 @@
     },
     {
       "date": "2022-04-15",
-      "sha512sum": "E445E6016A4C76D46F1F783D21AE14ED17AC5ABC6A62573DF38F98F2B7CC6A5B9DF6348E9C32C0B8156DBC942A01D694B4BD61CBC11B7765BC6FAC920B5EC3B7",
+      "sha512sum": "3E6B14DA2BFE6B81F5E1D4E25CFA2F9E7939A48464A7835E7128732DA7F3014AFE63E6E7E53B1F8982F455081010BBA7FB060F944E92F9435F515BCC9D13BD94",
       "version": "0.0.3",
       "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-butler-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-04-28",
+      "sha512sum": "8730862D4E0C72E4CACD3B2E4ED9CA682756C885477E6C8033BD920101EF542D2F760B54BF9CCA5372DD7A666F326A4F2D8C71C4AF2456D1E9F073BBF6B50579",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-butler-0.0.4.jar",
       "requires": "^1.0.0"
     }
   ]
