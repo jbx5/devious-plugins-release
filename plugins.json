@@ -14,19 +14,6 @@
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "unethicalite",
-  "name": "Example Utils",
-  "description": "",
-  "id": "exampleutils-plugin",
-  "releases": [{
-    "date": "2022-05-20",
-    "sha512sum": "E0A4C053C3274270685DBAC947A0BCB93E87C86985B4590AA710577096987B0B07F2F51B6506A944EC7D8AC1AF34C6D736BA1F26AB2D28264CEF08ED69AEDF86",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/example-utils-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
   "name": "Hoot Aerial Fishing",
   "description": "Trains fishing using aerial fishing",
   "id": "hootaerialfishing-plugin",
@@ -40,32 +27,6 @@
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "unethicalite",
-  "name": "Hoot Agility",
-  "description": "Completes Rooftop agility courses",
-  "id": "hootagility-plugin",
-  "releases": [{
-    "date": "2022-05-20",
-    "sha512sum": "B137311E6698DB7893DFED3E8D6FCA513B4A20C24904089D316DE0CAD87E9C05D9C6BA9CC6022650ED1877DD1F37987D8AE6A34C2A93E1E084DC1A5A3876C2E5",
-    "version": "0.0.5",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-agility-0.0.5.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
-  "name": "Hoot Auto Login",
-  "description": "Automatically logs in specified account in config",
-  "id": "hootautologin-plugin",
-  "releases": [{
-    "date": "2022-05-20",
-    "sha512sum": "F598B78ECDDBFCFD464D63B380C3669D4B1AECC1A66809F60A63F82A91F3F53B7D5691D37741203BFDD69DF025B12D4BB2E93874FF0385C2FB138AC4533D3C3F",
-    "version": "0.0.6",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-autologin-0.0.6.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
   "name": "Hoot Blackjack",
   "description": "Trains thieving using blackjacking",
   "id": "hootblackjack-plugin",
@@ -74,19 +35,6 @@
     "sha512sum": "33B8EA71E10C275FE7210408217D21E7FE614D08E2027F7EBBDDBA878E4F8123F465B096C1ED7981747F111C465C9CAB1AF14E0D231028A4BF6F8F5DCCBC6EA1",
     "version": "0.0.6",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-blackjack-0.0.6.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
-  "name": "Hoot Butler",
-  "description": "One-Clicks construction butler dialogs",
-  "id": "hootbutler-plugin",
-  "releases": [{
-    "date": "2022-05-20",
-    "sha512sum": "D28FA0876543CC605B496ACDFD2BB1F17A15617214E7120FB80D7F1EE588D186AD6016634E748D3946A444B4D9A6190D15AE72D1F74DB5FEF9C2CAD6AADE7CBA",
-    "version": "0.0.4",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-butler-0.0.4.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -131,19 +79,6 @@
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "unethicalite",
-  "name": "Hoot One Click",
-  "description": "Allows you to One-Click interactions",
-  "id": "hootoneclick-plugin",
-  "releases": [{
-    "date": "2022-05-20",
-    "sha512sum": "DCE651F9D3704B864317A6D2025D7924F37B3232D80AB88514A22862C2C10BAE63917B4DD7784A554DDEF365948DD6948EA2B94F22C8F640797E23736B873DD5",
-    "version": "0.0.11",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-oneclick-0.0.11.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
   "name": "Hoot Pickpocket",
   "description": "Configurable pickpocketer",
   "id": "hootpickpocket-plugin",
@@ -178,19 +113,6 @@
     "sha512sum": "1B7D6D954D4C7958E12E01EF6B3C57D1199B5DFDF87A2A30F7C76B9D83D2AD9D6CCEEF183435F596E6F0EFF313B749A1673A108C95A5E4249760BFC92619B011",
     "version": "0.0.5",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-trawler-0.0.5.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
-  "name": "Kebab buyer",
-  "description": "Buys kebabs very quickly",
-  "id": "kebabbuyer-plugin",
-  "releases": [{
-    "date": "2022-05-20",
-    "sha512sum": "3426820B93FB718F0B1B75DDA8F1FB73CAA8364521CA54C7F7CDEF7D3174A954BE80F0B63C731EE89567D29B807CC6D957D2C31AD9E5236AB069ACEDD978ACB7",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/kebab-buyer-script-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
