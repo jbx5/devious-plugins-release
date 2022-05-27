@@ -136,7 +136,7 @@
   "id": "unethicalautologin-plugin",
   "releases": [{
     "date": "2022-05-27",
-    "sha512sum": "E4E5096C0A06FF85F9BBB192748F2A1DB0E47EAB73B3F0EAA5ED26D36EDAAA7F4DBE69A072C9BFCF2DC8DB05F9B71E4DBA39AD6D17910AD6A8CDB683EFD17EF5",
+    "sha512sum": "817BCA1B9ABC0A0433B13FE2AE3DC1FE7C274C95AC9147E024E4654A6E90081FD6713FA057429045009355400F5D6A5C151977571B2A7BB26A6788D51D956467",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-autologin-0.0.1.jar",
     "requires": "^1.0.0"
