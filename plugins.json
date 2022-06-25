@@ -175,7 +175,7 @@
   "id": "unethicalchopper-plugin",
   "releases": [{
     "date": "2022-06-25",
-    "sha512sum": "9984C71CB944822B0AAA8DFACDE8A0B0D5D82DFFC0BAD9C02B3BD08769BC67BB5A79A142682663BAC872D22B534160A5868FD4B20D0B6A88CCB13A4583BE4E36",
+    "sha512sum": "281D5670A060F49FB4CA06BF3124B9F7AE973E735ABE762A06690811832EC8FC1FA6C73A063D0A3A9673D806EDA151F5A8D1956720C8C8121520A9C9E20CDB42",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-chopper-0.0.1.jar",
     "requires": "^1.0.0"
