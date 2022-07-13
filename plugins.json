@@ -235,13 +235,13 @@
 }, {
   "projectUrl": "https://discord.gg/9fGzEDR",
   "provider": "illumine",
-  "name": "iUtils (Unethicalite)",
+  "name": "iUtils",
   "description": "Illumine - Utils required for plugins to function with added automation",
-  "id": "iutilsunethicalite-plugin",
+  "id": "iutils-plugin",
   "releases": [
     {
       "date": "2022-07-13",
-      "sha512sum": "19B5FCA5A137305D8C037EE1DA3566D1A554B5693F52DBD0FEDFBCCD84C6DDC69547F664A5BB9D1C1E8B949D5EE863813D56FE57A85672889B4FD4305538B83C",
+      "sha512sum": "9BEBCBBB37C7AF39DD6571104B8ACC84C6CE83A86A88F6E1175A7CA3CB485FA73E019B0556CC634A2C21F8DE60893396AFFF4DDBB63D0319776D58D16A695DE1",
       "version": "5.0.3-Unethicalite",
       "url": "https://github.com/illumineawake/illu-plugins/blob/master/release/iutils-5.0.3-Unethicalite.jar?raw=true",
       "requires": "^1.0.0"
