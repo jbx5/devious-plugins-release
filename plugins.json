@@ -19,7 +19,7 @@
   "id": "iutils-plugin",
   "releases": [{
     "date": "2022-07-17",
-    "sha512sum": "E4BA1B1F1EDF1692C954EBC38A87F858EFB8B27ADD4C0D0C9DAEDF4C1A6C47A949EBE4396B677DE459C8146C4EAF18966CE58C738812CAADD8A680BA93374A96",
+    "sha512sum": "0F865A1C07D6D4F66F3026DB8FB059C07916ADF6D05092AAF352FC7E49DAF8B353274C4643A814B3C35F9BF660E7D979A09D69E4E82BF315618D54420B1A5475",
     "version": "5.0.4-Unethicalite",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/iutils-5.0.4-Unethicalite.jar",
     "requires": "^1.0.0"
