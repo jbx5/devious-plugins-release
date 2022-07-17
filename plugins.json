@@ -1,6 +1,32 @@
 [{
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "unethicalite",
+  "name": "Hoot Fighter",
+  "description": "Simple fighter, supports eating, looting, alching, prayer potions, prayer flicking",
+  "id": "hootfighter-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "5EF3C6E38806499254503B7BE6445D49EABC2D0A3BDAA4627E4920000CE0EE027BCF7E93F529AA6E803777879782CFF6633D756AE2B7D80368CE9784B2E2867F",
+    "version": "0.0.7",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-fighter-0.0.7.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
+  "name": "iUtils",
+  "description": "iUtils Unethicalite",
+  "id": "iutils-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "E4BA1B1F1EDF1692C954EBC38A87F858EFB8B27ADD4C0D0C9DAEDF4C1A6C47A949EBE4396B677DE459C8146C4EAF18966CE58C738812CAADD8A680BA93374A96",
+    "version": "5.0.4-Unethicalite",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/iutils-5.0.4-Unethicalite.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
   "name": "Unethical Agility",
   "description": "Completes Rooftop agility courses",
   "id": "unethicalagility-plugin",
