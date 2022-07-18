@@ -32,9 +32,9 @@
   "id": "unethicalagility-plugin",
   "releases": [{
     "date": "2022-07-18",
-    "sha512sum": "48C38F877A4C30D16E6348D6972D22522103029CAD722394C49B173063D57EBCFEA2BDE3A5025D0736B7BB9963EF6ACEB3CC51C6026A77BA877AAE705CA32811",
-    "version": "0.0.2",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-agility-0.0.2.jar",
+    "sha512sum": "8092201EA8A1C970C7E59FAA66BBBF9483A0073DC03A48FC209A842DD09CC3E9A955B4934B9FFD4032010A935B133B0E444B5595B3C50820083220F92B0EA2DA",
+    "version": "0.0.3",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-agility-0.0.3.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -58,7 +58,7 @@
   "id": "unethicalbutler-plugin",
   "releases": [{
     "date": "2022-07-18",
-    "sha512sum": "BB86E031EA2BD5493A7451675975645CA754D29AB02AEC0D77E077CFB663B20FCFFAB1201B7B8292BAE515AF25A9677461B7E80C09ABD8807F3C73A56DD1C41A",
+    "sha512sum": "675716D1FEFFAE32AB721F0367122A8A5991F96EEE0913803EA9119C813972E116403A8005F700421FB54FE59672FD9DDAC2883D803CF17651A652C44E15E93C",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-butler-0.0.1.jar",
     "requires": "^1.0.0"
