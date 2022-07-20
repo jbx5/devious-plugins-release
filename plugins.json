@@ -14,19 +14,6 @@
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "unethicalite",
-  "name": "iUtils",
-  "description": "iUtils Unethicalite",
-  "id": "iutils-plugin",
-  "releases": [{
-    "date": "2022-07-20",
-    "sha512sum": "0F865A1C07D6D4F66F3026DB8FB059C07916ADF6D05092AAF352FC7E49DAF8B353274C4643A814B3C35F9BF660E7D979A09D69E4E82BF315618D54420B1A5475",
-    "version": "5.0.4-Unethicalite",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/iutils-5.0.4-Unethicalite.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "unethicalite",
   "name": "Unethical Agility",
   "description": "Completes Rooftop agility courses",
   "id": "unethicalagility-plugin",
