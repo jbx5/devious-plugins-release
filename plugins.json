@@ -123,7 +123,7 @@
   "id": "unethicalzulrah-plugin",
   "releases": [{
     "date": "2022-08-02",
-    "sha512sum": "A5321B8BA7BFE5535F2744EF6B76CB9CF4B83C71D84257BCC183C9F16F88E52AEBB81AC068896E20899BEE54F84319B243EFB4CD0C304AA432B93D18E570AE93",
+    "sha512sum": "5C0A50061210DDBDBAB16EC54F4E40F6333803C354931A96B77BC4C55C1329C2C3A8BE63F4DA05793704079B847684462BA7085AEE0B8D792F255E67D19AF9FC",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-zulrah-0.0.1.jar",
     "requires": "^1.0.0"
