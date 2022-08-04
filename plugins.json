@@ -5,7 +5,7 @@
   "description": "Simple fighter, supports eating, looting, alching, prayer potions, prayer flicking",
   "id": "hootfighter-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "5EF3C6E38806499254503B7BE6445D49EABC2D0A3BDAA4627E4920000CE0EE027BCF7E93F529AA6E803777879782CFF6633D756AE2B7D80368CE9784B2E2867F",
     "version": "0.0.7",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/hoot-fighter-0.0.7.jar",
@@ -18,7 +18,7 @@
   "description": "Completes Rooftop agility courses",
   "id": "unethicalagility-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "8092201EA8A1C970C7E59FAA66BBBF9483A0073DC03A48FC209A842DD09CC3E9A955B4934B9FFD4032010A935B133B0E444B5595B3C50820083220F92B0EA2DA",
     "version": "0.0.3",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-agility-0.0.3.jar",
@@ -31,7 +31,7 @@
   "description": "Automatically logs in specified account in config",
   "id": "unethicalautologin-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "D2261E82489748C3B89A4F6F391FF00219F54FE9E70A85E789A6101DA30E94BF3F133887AC570DD389C4159C6E6E1B5CCD436B395DB9E6E01223CB09388361DF",
     "version": "0.0.2",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-autologin-0.0.2.jar",
@@ -44,7 +44,7 @@
   "description": "One-Clicks construction butler dialogs",
   "id": "unethicalbutler-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "675716D1FEFFAE32AB721F0367122A8A5991F96EEE0913803EA9119C813972E116403A8005F700421FB54FE59672FD9DDAC2883D803CF17651A652C44E15E93C",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-butler-0.0.1.jar",
@@ -57,7 +57,7 @@
   "description": "Chops trees",
   "id": "unethicalchopper-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "281D5670A060F49FB4CA06BF3124B9F7AE973E735ABE762A06690811832EC8FC1FA6C73A063D0A3A9673D806EDA151F5A8D1956720C8C8121520A9C9E20CDB42",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-chopper-0.0.1.jar",
@@ -70,10 +70,10 @@
   "description": "Automatically walks places",
   "id": "unethicalexplorer-plugin",
   "releases": [{
-    "date": "2022-08-03",
-    "sha512sum": "E31D1FBC6545D9DDEE352C1AC7A50C6125D0439A8F9BA1794971D191B36A753318EFD1CC0D044CD22B6BBB0E7EDA6952A662DEFC1D411C439BF1178E358E9C3C",
-    "version": "0.0.2",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-explorer-0.0.2.jar",
+    "date": "2022-08-04",
+    "sha512sum": "3296EB8A3504E5BF227A31A6625C355C006601AB1A7D34A06A76936C09028E2C4F4778AACAA75E8A74DE4D71CEFF113FB8B5C0BE21C54642D2F6DCF8BBB74D0A",
+    "version": "0.0.3",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-explorer-0.0.3.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -83,7 +83,7 @@
   "description": "Buys kebabs very quickly",
   "id": "unethicalkebabbuyer-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "33621ADF1DD28D93189A8CC5827166786C0E53A618EC475FC1EA3C43DE200F3637180FA14E48FF107A98D9E226A70DB81CA360A6363A6C75A2396E8C2B03A1D4",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-kebab-buyer-0.0.1.jar",
@@ -96,7 +96,7 @@
   "description": "Allows you to One-Click interactions",
   "id": "unethicaloneclick-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "15C00612556A5189C91A25CFD7DF0DE6841AD4A8947779E5DE56E2F2CAE9436EFA878D9D200A2D8DB3683F241A0044893A29AE239FD91BE5AB310758906FE9AF",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-oneclick-0.0.1.jar",
@@ -109,7 +109,7 @@
   "description": "Toggles protection prayers on certain events",
   "id": "unethicalprayer-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "E68B00086AD959E02D6490D75375F7A48ECA168B65065235B1143F8EA7644342D120458224C1C2D24B354D35AAA97C2231DE3A78CCBDB90A5206854E68271D6E",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-prayer-0.0.1.jar",
@@ -122,7 +122,7 @@
   "description": "Kills Zulrah for you",
   "id": "unethicalzulrah-plugin",
   "releases": [{
-    "date": "2022-08-03",
+    "date": "2022-08-04",
     "sha512sum": "CAF2A129BE9F9E6EFA71D6402A8DDE23D83BA884DA2CA2043470E1590A6B16A55427D0AA4A488148E2E8FAA86DF0621F1FB90D0954D8961CCA6A4F2C2E2F6D03",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-zulrah-0.0.1.jar",
