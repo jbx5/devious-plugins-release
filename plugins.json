@@ -71,9 +71,9 @@
   "id": "unethicalexplorer-plugin",
   "releases": [{
     "date": "2022-08-04",
-    "sha512sum": "3296EB8A3504E5BF227A31A6625C355C006601AB1A7D34A06A76936C09028E2C4F4778AACAA75E8A74DE4D71CEFF113FB8B5C0BE21C54642D2F6DCF8BBB74D0A",
-    "version": "0.0.3",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-explorer-0.0.3.jar",
+    "sha512sum": "15720C1EEA94DEE1096A782B6DAEB3887E3E815B5D2B3FBAF328B2AD847B35D21B5DF94F80671A013E0F21060140EF41F28CABFDE102EF8B0B0D593830DDBDB4",
+    "version": "0.0.4",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-explorer-0.0.4.jar",
     "requires": "^1.0.0"
   }]
 }, {
