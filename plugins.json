@@ -110,9 +110,9 @@
   "id": "unethicalprayer-plugin",
   "releases": [{
     "date": "2022-08-08",
-    "sha512sum": "FEB808287260C7E72A74C07920074FA1CB0B9F89BAD4B34C3FFE31B457C8DE356F88382F2366144CB6ACF62C46A8AB71BE4A13D9A5F5C34C07663E9B62933795",
-    "version": "0.0.4",
-    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-prayer-0.0.4.jar",
+    "sha512sum": "7C6E30B8ACAE4526A053EEE0A2167F65AEC32F61F3895B071AF54194181CD98982B836D3F6B97F16A5BDF5ADC1090B49DEC9AF682E0C4ECF51290677372CBC60",
+    "version": "0.0.5",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/unethical-prayer-0.0.5.jar",
     "requires": "^1.0.0"
   }]
 }, {
